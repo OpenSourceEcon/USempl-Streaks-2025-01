@@ -1,2 +1,2 @@
-# USempl-Streaks-2025-01
-Data, code, and images for analyses in "US Jobs Streak: Now Second Longest in 86 years"
+# Resources for "US Jobs Streak: Now Second Longest in 86 Years"
+Data, code, and images for analyses in "[US Jobs Streak: Now Second Longest in 86 years](https://rickecon.substack.com/p/us-jobs-streak-now-second-longest)" by Richard W. Evans. The main file in this repository for replicating the analyses is the Jupyter notebook https://github.com/OpenSourceEcon/USempl-Streaks-2025-01/blob/main/USemplStreaks_2025_01.ipynb.
